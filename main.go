@@ -45,7 +45,7 @@ func main() {
 		}
 		case 5: {
 			if dia >=21 && dia <=31{
-				fmt.Println("gemisis")
+				fmt.Println("geminis")
 			}else if dia <=20 && dia > 0{
 				fmt.Println("tauro")
 			}
@@ -55,7 +55,7 @@ func main() {
 			if dia >=22 && dia <=30{
 				fmt.Println("cancer")
 			}else if dia <=21 && dia > 0{
-				fmt.Println("gemisis")
+				fmt.Println("geminis")
 			}
 			
 		}
